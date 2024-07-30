@@ -1,0 +1,7 @@
+../Core/Src/LCD16x2.c:19:6:LCD_Write	1
+../Core/Src/LCD16x2.c:31:6:LCD_Send	1
+../Core/Src/LCD16x2.c:37:6:LCD_Init	1
+../Core/Src/LCD16x2.c:48:6:LCD_Clear	1
+../Core/Src/LCD16x2.c:52:6:LCD_Location	3
+../Core/Src/LCD16x2.c:59:6:LCD_Write_String	2
+../Core/Src/LCD16x2.c:65:6:LCD_Write_Number	8
