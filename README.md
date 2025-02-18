@@ -1,4 +1,4 @@
-# My project(Calculator)
+# My project(Calculator 4x4)
 
 All source code for a small STM32 calculator. This repository contains schematics and source code for STM32F103C8T6 (Folder "note" above is very important for configuring). Users are encouraged to refer to and customize this for their own small projects.
 
